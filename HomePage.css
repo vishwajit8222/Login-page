@@ -1,0 +1,31 @@
+*{
+    background-color: antiquewhite;
+}
+#heading{
+    color: darkolivegreen;
+    text-decoration:  darkolivegreen underline;
+}
+#table{
+    background-color: white;
+}
+caption{
+    line-height: 2;
+    color: brown;
+    font-weight: bolder;
+    margin-bottom: 10px;
+}
+table{
+    background-color:black;
+}
+td{
+   background-color: lightblue;
+}
+th{
+    background-color: lightcoral;
+}
+.mainlist{
+    font-weight: bolder;
+}
+.sublist{
+    font-weight: normal;
+}

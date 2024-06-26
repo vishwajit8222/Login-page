@@ -1,0 +1,17 @@
+*{
+    background-color: khaki;
+}
+a{
+    text-decoration: none;
+    color: blue;
+}
+input{
+    background-color: white;
+}
+button{
+    color: white;
+    background-color: white;
+}
+button a {
+    background-color: white;
+}
